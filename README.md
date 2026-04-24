@@ -1,4 +1,3 @@
-# xanta
 # Alexey Lazarev
 
 Junior Security Engineer focused on Web and Network Security.
