@@ -161,7 +161,6 @@ Planned topics:
 
 - Telegram: https://t.me/xantaa
 - Email: alekceu086@gmail.com
-- GitHub: https://github.com/BUSH-xanta
 
 ---
 
