@@ -102,7 +102,6 @@ Hands-on labs for web and API security.
 
 - Telegram: https://t.me/xantaa
 - Email: alekceu086@gmail.com
-- GitHub: https://github.com/BUSH-xanta
 
 ---
 
